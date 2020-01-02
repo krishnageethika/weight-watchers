@@ -4,3 +4,5 @@ phases:
     commands:
       - npm install
       - npm test
+    runtime-versions:
+        nodejs: 10
